@@ -1,0 +1,56 @@
+<style>
+    body {
+     style=background-color: rgb(101, 111, 255);"
+      
+    }
+    
+    h1 {
+      padding: 0px 0;
+  margin: 0;
+  margin-bottom: 0px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 50px;
+  font-style: bold;
+  font-style: italic;
+    color: rgb(255, 255, 255);
+  text-align: center;
+  border: 3px solid rgba(2, 153, 170, 0.521)
+    
+    }
+    
+    h2 {
+      padding: 10px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 50px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+    }
+
+    h3 {
+      padding: 10px 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 30px;
+  font: Times;
+  color: rgb(255, 255, 255);
+  text-align: left;
+    
+    }
+
+    p {
+      font-family: verdana;
+      font-size: 14px;
+      color: rgb(255, 255, 255);
+    }
+
+    :any-link {
+      font-family: deathhouse;
+      font-size: 15px;
+      color: rgb(255,255,255;
+    }
+
+    
+    
+
+    </style>
